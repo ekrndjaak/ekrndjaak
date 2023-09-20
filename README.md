@@ -8,5 +8,5 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ekrndjaak&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekrndjaak&langs_count=10&layout=compact&theme=dark)](https://github.com/chltmdgh522/chltmdgh522)
-
+<h3>뭐라도 만들어라, 그래야만 실력이 는다.</h3>
 <p>https://dlagksrb0430.w3spaces-preview.com/index.html</p>
